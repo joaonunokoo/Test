@@ -1,7 +1,7 @@
 var Autobot = {
     title: 'Autobot',
     version: '3.1',
-    domain: window['location']['protocol'] + '//cdn.jsdelivr.net/gh/kevenvz/grepobot-cracked@1.4/Raw/',
+    domain: window['location']['protocol'] + 'https://github.com/joaonunokoo/Test/blob/main/',
     botWnd: '',
     botPremWnd: '',
     botEmailWnd: '',
